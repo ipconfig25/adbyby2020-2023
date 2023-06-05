@@ -1,0 +1,167 @@
+! ----Updatetime: 2023-05-25 21:37:31 by:Mr.K----
+! Modified from xinggsf.Thanks
+v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
+atm.youku.com
+cad.youku.com
+apisgame.iqiyi.com
+static.g.iqiyi.com
+||ssports.iqiyi.com/json/shop/shopInfo
+show.ssports.com
+v.qq.com###player .txp_zt_content
+v.qq.com##.quick_games.quick_item,div.card-wrap
+qq.com##.mod_ad, .txp_ad, div.l_qq_com, .txp-watermark, .txp_ad_link, .txp_zt_video, .adWrap, .iwan-wrapper
+cm.l.qq.com
+||l.qq.com/lview?
+||l.qq.com/livemsg?
+||mark.l.qq.com/fcgi-bin/get_video_mark_all?
+||gtimg.com/qqlive/
+|https://imgcache.qq.com/qzone/biz/comm/js/qbs.js
+||news.ssp.qq.com/app
+miaozhen.com
+reachmax.cn
+scorecardresearch.com
+tencentmind.com
+xtgreat.com
+bilibili.com##.ad-report, .ad-floor
+cm.bilibili.com
+acfun.cn##.pause-display-container,#ad-comment,#ad-player-view
+||aixifan.com/static/*/appGuide/
+cctv.com###bgAd_div
+bjcathay.com
+pptv.com##.advView-two,#p-mark
+synacast.com
+de.as.pptv.com
+pub.funshion.com
+@@||tb.mgtv.com/sdk/*/ad-sdk.
+ad-survey.com
+@@||js.tv.itc.cn/gg.seed.js
+||api.my.tv.sohu.com/wm/getads.do?
+||aty.sohu.com/
+adpushup.com
+||go.sohu.com/
+tv.sohu.com##.x-dl-shake.x-download-panel, #playerBar > div.area ~a
+17173.com###vjs-ad-on-pause
+||log1.17173.com/
+||17173.com/batch_show?ads=
+||banana.le.com/
+adxvip.com
+behe.com
+biddingx.com
+cr-nielsen.com
+fancyapi.com
+ipinyou.com
+kejet.net
+ulmdb.cn
+xelements.cn
+yoyi.com.cn
+zhiziyun.com
+le.com##.min_pause_img
+le.com##.hv_wm_logo
+wan.douyu.com
+douyu.com##.Title-ad, .DropMenuList-ad, .DropPane-ad
+huya.com###hy-ad,#hy-ab,#huya-ab
+g.huya.com
+www.ted.com##.gm-fp-body .justify-center.tracking-tightest
+||onetrust.
+litix.io
+youtube.com##.masthead-ad-control, .ad-div, .pyv-afc-ads-container, #promotion-shelf
+youtube.com##ytd-video-masthead-ad-advertiser-info-renderer, ytm-promoted-sparkles-web-renderer, ytd-promoted-sparkles-web-renderer
+||youtube.com/pagead/
+||youtube.com/ptracking?
+||google.*/pagead/
+||gstatic.com/shopping?
+91p20.space
+waust.at
+jads.co
+statsy.net
+dandanzan.com,dandanzan10.top,nunuyy5.org##.gm-fp-body video:style(max-height:100%!important)
+wpadmngr.com
+www.sbdm.net##.dplayer-web-fullscreen-fix .billhao-head-image, .dplayer-web-fullscreen-fix #topnav
+aqours.today
+chushoushijian.cn
+z4a.net
+www.sbdm.net##.ads_all:remove()
+onenews.vip
+quickapp.cn
+v4dwkcv.com
+weizhenwx.com
+youle55.com
+bixinlive.com
+orgaorg.com
+quandangdang.net
+stgowan.com
+@@||mmstat.com^$domain=youku.com
+||sealine.youku.com/yk/*callback=adpagesdk$script
+||static.iqiyi.com/js/common/mars_v.js$script
+||iqiyi.com/videos/other/202$xmlhttprequest
+||71edge.com/videos/other/202$xmlhttprequest
+||iqiyipic.com/image/20*_100000$image
+@@||union.video.qq.com/fcgi-bin/$script,domain=qq.com
+||qzonestyle.gtimg.cn/qzone/biz/ac/comm/$script
+||api.bilibili.com/x/web-show/res/loc?pf=$~script
+||hdslb.com/bfs/sycp/creative_img/$image
+||g.pptv.com/game/$subdocument
+||osswc.pplive.cn/cccms/$image
+||cmvideo.cn/v1/iflyad/delivery$media,domain=miguvideo.com
+||video.da.mgtv.com/$media
+||da.mgtv.com/mediafiles/wiad_creative/$image
+||css.tv.itc.cn/m/img/player/dlBanner.$image
+||data.vod.itc.cn/*&prod=ad&$media
+||tv.sohu.com/upload/csad/admaster/$image
+||letvimg.com/*_gugwl/$image
+||js.letvcdn.com/*_banner_$script
+||jd.com/$domain=le.com
+||douyucdn.cn/adxdsp/$image
+||msstatic.com/huya/*/p2plib.js$script
+||stripe.com^$script,domain=~nextdns.io|~obsidian.md
+*/preroll/$media,domain=91porn.com
+||btsow.mom/app/jav$image
+||dyncdn.me/static/20/js/showads.js$script
+||dyncdn.me/static/20/js/expla$script
+||toutiaoimg.com/origin/$image,domain=agemys.net|acgndmku.com|subaibaiys.com
+||nunuyingyuan.tk/serviceworker.js^$script
+||nunuyy.cf/serviceworker.js^$script
+|https://dd-static.jd.com/ddimg/jfs/t1/173245/15/28822/346324/62fcb4b0Eb437d047/136a1e04890320b8.jpg$image,domain=subaibaiys.com
+||www.yatu.tv:2082/image/*.gif^$image
+||www.yatu.tv:2082/m/images/$image
+
+!  -----更新时间:  2022-05-01 16:56:51   by:xwhyc-----------------------------------------------
+!  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224(满)，534897434,438394572--------------
+@@||dd.browser.360.cn/static
+rrys2019.com##.float_middel_ad_bk,#float_ad
+youku.com##[style*="width: 400px;"],[style*="width: 361px;"]
+|http://play.vodxc.com/$s@t:17@t:1@
+||3a119.com/js/tw.js
+||407mp3.com/js/
+||6080w.com/template/mov/js/300.js
+||66zhibo.net/d/66zhibo/66zhibo
+||680ts.com/js/bpolknm.js
+||680ts.com/js/jquery.js
+||680ts.com/js/tpolknm.js
+||cupid.iqiyi.com/show2^*a=qc_100001_$s@"a":[{"ds":?,"p":??,*"a":[]}],"inv":@"a":[]}],"inv":@
+||fpb.sohu.com
+||img1122.com
+||js.jstucdn.com/js/global.js?v=$s@GLOBAL.AdUtils*rich: function(ads, cookie_name)@{@
+||p.gshtrl.top
+||qunale888.com/files/h5/
+||res.iyoowi.com/iy/iy.js?cid=
+||tdbzcl.com
+||tt27.tv/js/jsg/对联广告.js
+||vodxc.tv/xcimg/js/Img.Load.js
+!-------------------------------------------
+! mgtv
+m.mgtv.com##.mg-dcross
+www.mgtv.com##.m-headgg
+@@||tb.mgtv.com/sdk/*/ad-sdk.
+||mgtv-bbqn.oss-cn-beijing.aliyuncs.com^
+||da.mgtv.com^
+||pcvideoyf.titan.mgtv.com/pb/*.mp4
+mgtv.com##.ad-fixed-bar
+mgtv.com##.c-95060-top
+@@||da.mgtv.com/m/player?
+m.mgtv.com##.mg-dcross
+www.mgtv.com##.m-headgg
+!-----------------------
+|http://mark.l.qq.com/fcgi-bin/get_video_mark_all*&strAdParam=
+!---------adbyby---------
+
